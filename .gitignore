@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Gatsby cache and build
+gatsby/.cache/
+gatsby/public/
+gatsby/node_modules/
+
+# electron
+electron/public
+
+# Electron build output
+dist/
+
+
+# Draft files
+drafts/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Swap files
+*.swp
+*.swo
+
